@@ -1,0 +1,7 @@
+[package]
+name = "kata_006_differentiate_a_polynomial_566584e3309db1b17d000027"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+regex="1.12.2"
