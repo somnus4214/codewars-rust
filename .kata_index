@@ -3,6 +3,7 @@
 # 此文件由 sync_kata_list.sh 自动维护
 
 53d40c1e2f13e331fc000c26|The Millionth Fibonacci Kata|3kyu|katas/3kyu/000_the_millionth_fibonacci_kata_53d40c1e2f13e331fc000c26|2025-12-09|completed
+5518a860a73e708c0a000027|Last digit of a huge number|3kyu|katas/3kyu/001_last_digit_of_a_huge_number_5518a860a73e708c0a000027|2025-12-17|completed
 551f23362ff852e2ab000037|pyramid slide down|4kyu|katas/4kyu/000_pyramid_slide_down_551f23362ff852e2ab000037|2025-12-01|incomplete
 55983863da40caa2c900004e|next bigger number with the same digits|4kyu|katas/4kyu/001_next_bigger_number_with_the_same_digits_55983863da40caa2c900004e|2025-12-01|completed
 5254ca2719453dcc0b00027d|so many permutations!|4kyu|katas/4kyu/002_so_many_permutations_5254ca2719453dcc0b00027d|2025-12-02|incomplete

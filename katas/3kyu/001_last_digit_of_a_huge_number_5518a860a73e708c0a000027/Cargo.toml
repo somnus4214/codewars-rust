@@ -1,0 +1,6 @@
+[package]
+name = "kata_001_last_digit_of_a_huge_number_5518a860a73e708c0a000027"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
