@@ -4,6 +4,7 @@
 
 53d40c1e2f13e331fc000c26|The Millionth Fibonacci Kata|3kyu|katas/3kyu/000_the_millionth_fibonacci_kata_53d40c1e2f13e331fc000c26|2025-12-09|completed
 5518a860a73e708c0a000027|Last digit of a huge number|3kyu|katas/3kyu/001_last_digit_of_a_huge_number_5518a860a73e708c0a000027|2025-12-17|completed
+5296bc77afba8baa690002d7|Sudoku Solver|3kyu|katas/3kyu/002_sudoku_solver_5296bc77afba8baa690002d7|2026-02-01|completed
 551f23362ff852e2ab000037|pyramid slide down|4kyu|katas/4kyu/000_pyramid_slide_down_551f23362ff852e2ab000037|2025-12-01|incomplete
 55983863da40caa2c900004e|next bigger number with the same digits|4kyu|katas/4kyu/001_next_bigger_number_with_the_same_digits_55983863da40caa2c900004e|2025-12-01|completed
 5254ca2719453dcc0b00027d|so many permutations!|4kyu|katas/4kyu/002_so_many_permutations_5254ca2719453dcc0b00027d|2025-12-02|incomplete
@@ -25,6 +26,7 @@
 556deca17c58da83c00002db|Tribonacci Sequence|6kyu|katas/6kyu/003_tribonacci_sequence_556deca17c58da83c00002db|2025-12-03|completed
 523f5d21c841566fde000009|Array.diff|6kyu|katas/6kyu/004_array_diff_523f5d21c841566fde000009|2025-12-04|completed
 54da539698b8a2ad76000228|Take a Ten Minutes Walk|6kyu|katas/6kyu/005_take_a_ten_minutes_walk_54da539698b8a2ad76000228|2025-12-04|completed
+550498447451fbbd7600041c|Are they the \|6kyu|katas/6kyu/006_are_they_the_550498447451fbbd7600041c|2026-02-08|completed
 5259b20d6021e9e14c0010d4|Reverse words|7kyu|katas/7kyu/000_reverse_words_5259b20d6021e9e14c0010d4|2025-12-02|completed
 55f8a9c06c018a0d6e000132|Regex validate PIN code|7kyu|katas/7kyu/001_regex_validate_pin_code_55f8a9c06c018a0d6e000132|2025-12-03|completed
 51f2d1cafc9c0f745c00037d|String ends with?|7kyu|katas/7kyu/002_string_ends_with_51f2d1cafc9c0f745c00037d|2025-12-04|completed

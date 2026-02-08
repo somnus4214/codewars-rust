@@ -1,0 +1,6 @@
+[package]
+name = "kata_002_sudoku_solver_5296bc77afba8baa690002d7"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

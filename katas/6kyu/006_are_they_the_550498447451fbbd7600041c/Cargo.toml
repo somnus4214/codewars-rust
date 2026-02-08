@@ -1,0 +1,6 @@
+[package]
+name = "kata_006_are_they_the_550498447451fbbd7600041c"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
