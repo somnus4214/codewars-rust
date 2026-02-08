@@ -1,0 +1,6 @@
+[package]
+name = "kata_008_is_he_gonna_survive_59ca8246d751df55cc00014c"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

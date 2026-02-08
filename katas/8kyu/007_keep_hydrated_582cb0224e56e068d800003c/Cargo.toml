@@ -1,0 +1,6 @@
+[package]
+name = "kata_007_keep_hydrated_582cb0224e56e068d800003c"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

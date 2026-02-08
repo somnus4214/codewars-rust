@@ -10,8 +10,8 @@ fn comp(a: Vec<i64>, b: Vec<i64>) -> bool {
     if a.len() != b.len() {
         return false;
     }
-    if a.is_empty() || b.is_empty() {
-        return false;
+    if a.is_empty() && b.is_empty() {
+        return true;
     }
     let mut a_squared: Vec<i64> = a.iter().map(|&x| x * x).collect();
     a_squared.sort();

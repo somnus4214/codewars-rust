@@ -1,0 +1,6 @@
+[package]
+name = "kata_006_remove_exclamation_marks_57a0885cbb9944e24c00008e"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

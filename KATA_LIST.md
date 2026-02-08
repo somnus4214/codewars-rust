@@ -1,25 +1,25 @@
 # 📚 我的 Codewars 刷题记录
 
-> 最后更新: 2026-02-08 01:29:51
+> 最后更新: 2026-02-09 00:36:08
 
 ## 📊 统计概览
 
-- **总题目数**: 35
-- **已完成**: 32 ✅
+- **总题目数**: 40
+- **已完成**: 37 ✅
 - **未完成**: 3 ⏸️
 - **总复习次数**: 6
-- **平均复习次数**: .17
+- **平均复习次数**: .15
 
 ### 难度分布
 
 | 难度 | 数量 | 占比 | 进度条 |
 |------|------|------|--------|
-| 3kyu | 3 | 8% | █░░░░░░░░░░ |
-| 4kyu | 7 | 20% | ██░░░░░░░░ |
-| 5kyu | 8 | 22% | ██░░░░░░░░ |
-| 6kyu | 7 | 20% | ██░░░░░░░░ |
-| 7kyu | 4 | 11% | █░░░░░░░░░ |
-| 8kyu | 6 | 17% | █░░░░░░░░░ |
+| 3kyu | 3 | 7% | █░░░░░░░░░░ |
+| 4kyu | 7 | 17% | █░░░░░░░░░ |
+| 5kyu | 9 | 22% | ██░░░░░░░░ |
+| 6kyu | 7 | 17% | █░░░░░░░░░ |
+| 7kyu | 5 | 12% | █░░░░░░░░░ |
+| 8kyu | 9 | 22% | ██░░░░░░░░ |
 
 ---
 
@@ -117,7 +117,7 @@
 
 ---
 
-### 5kyu (8 题)
+### 5kyu (9 题)
 
 #### 1. Number of trailing zeros of N!
 - **Kata ID**: 52f787eb172a8b4ae1000a34
@@ -183,6 +183,14 @@
 - **完成日期**: 2025-12-04
 - **状态**: ✅ 已完成
 - **路径**: `katas/5kyu/007_fateful_findings_67330f514a2d47c019c67340`
+- **复习次数**: 0
+
+#### 9. Calculating with Functions
+- **Kata ID**: 525f3eda17c7cd9f9e000b39
+- **链接**: https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39
+- **完成日期**: 2026-02-08
+- **状态**: ✅ 已完成
+- **路径**: `katas/5kyu/008_calculating_with_functions_525f3eda17c7cd9f9e000b39`
 - **复习次数**: 0
 
 ---
@@ -251,7 +259,7 @@
 
 ---
 
-### 7kyu (4 题)
+### 7kyu (5 题)
 
 #### 1. Reverse words 🔄
 - **Kata ID**: 5259b20d6021e9e14c0010d4
@@ -287,9 +295,17 @@
 - **路径**: `katas/7kyu/003_you_re_a_square_54c27a33fb7da0db0100040e`
 - **复习次数**: 0
 
+#### 5. Number of People in the Bus
+- **Kata ID**: 5648b12ce68d9daa6b000099
+- **链接**: https://www.codewars.com/kata/5648b12ce68d9daa6b000099
+- **完成日期**: 2026-02-09
+- **状态**: ✅ 已完成
+- **路径**: `katas/7kyu/004_number_of_people_in_the_bus_5648b12ce68d9daa6b000099`
+- **复习次数**: 0
+
 ---
 
-### 8kyu (6 题)
+### 8kyu (9 题)
 
 #### 1. Abbreviate a Two Word Name
 - **Kata ID**: 57eadb7ecd143f4c9c0000a3
@@ -339,6 +355,30 @@
 - **路径**: `katas/8kyu/005_calculate_bmi_57a429e253ba3381850000fb`
 - **复习次数**: 0
 
+#### 7. Remove exclamation marks
+- **Kata ID**: 57a0885cbb9944e24c00008e
+- **链接**: https://www.codewars.com/kata/57a0885cbb9944e24c00008e
+- **完成日期**: 2026-02-08
+- **状态**: ✅ 已完成
+- **路径**: `katas/8kyu/006_remove_exclamation_marks_57a0885cbb9944e24c00008e`
+- **复习次数**: 0
+
+#### 8. Keep Hydrated!
+- **Kata ID**: 582cb0224e56e068d800003c
+- **链接**: https://www.codewars.com/kata/582cb0224e56e068d800003c
+- **完成日期**: 2026-02-08
+- **状态**: ✅ 已完成
+- **路径**: `katas/8kyu/007_keep_hydrated_582cb0224e56e068d800003c`
+- **复习次数**: 0
+
+#### 9. Is he gonna survive?
+- **Kata ID**: 59ca8246d751df55cc00014c
+- **链接**: https://www.codewars.com/kata/59ca8246d751df55cc00014c
+- **完成日期**: 2026-02-08
+- **状态**: ✅ 已完成
+- **路径**: `katas/8kyu/008_is_he_gonna_survive_59ca8246d751df55cc00014c`
+- **复习次数**: 0
+
 ---
 
 ## 🎯 学习进度
@@ -347,10 +387,10 @@
 
 - ✅ 3kyu: 3 题完成
 - ✅ 4kyu: 7 题完成
-- ✅ 5kyu: 8 题完成
+- ✅ 5kyu: 9 题完成
 - ✅ 6kyu: 7 题完成
-- ✅ 7kyu: 4 题完成
-- ✅ 8kyu: 6 题完成
+- ✅ 7kyu: 5 题完成
+- ✅ 8kyu: 9 题完成
 
 ### 复习情况
 

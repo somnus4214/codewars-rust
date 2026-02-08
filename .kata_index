@@ -20,6 +20,7 @@
 55e61967663140aafb0001d6|Primes in the Last Digits of Huge Numbers|5kyu|katas/5kyu/005_primes_in_the_last_digits_of_huge_numbers_55e61967663140aafb0001d6|2025-12-03|incomplete
 64cf5ba625e2160051ad8b71|Dependable Jobs Schedule|5kyu|katas/5kyu/006_dependable_jobs_schedule_64cf5ba625e2160051ad8b71|2025-12-03|completed
 67330f514a2d47c019c67340|Fateful Findings|5kyu|katas/5kyu/007_fateful_findings_67330f514a2d47c019c67340|2025-12-04|completed
+525f3eda17c7cd9f9e000b39|Calculating with Functions|5kyu|katas/5kyu/008_calculating_with_functions_525f3eda17c7cd9f9e000b39|2026-02-08|completed
 54b42f9314d9229fd6000d9c|Duplicate Encoder|6kyu|katas/6kyu/000_duplicate_encoder_54b42f9314d9229fd6000d9c|2025-12-02|completed
 54e6533c92449cc251001667|Unique In Order|6kyu|katas/6kyu/001_unique_in_order_54e6533c92449cc251001667|2025-12-02|completed
 5552101f47fc5178b1000050|Playing with digits|6kyu|katas/6kyu/002_playing_with_digits_5552101f47fc5178b1000050|2025-12-03|completed
@@ -31,9 +32,13 @@
 55f8a9c06c018a0d6e000132|Regex validate PIN code|7kyu|katas/7kyu/001_regex_validate_pin_code_55f8a9c06c018a0d6e000132|2025-12-03|completed
 51f2d1cafc9c0f745c00037d|String ends with?|7kyu|katas/7kyu/002_string_ends_with_51f2d1cafc9c0f745c00037d|2025-12-04|completed
 54c27a33fb7da0db0100040e|You're a square!|7kyu|katas/7kyu/003_you_re_a_square_54c27a33fb7da0db0100040e|2025-12-04|completed
+5648b12ce68d9daa6b000099|Number of People in the Bus|7kyu|katas/7kyu/004_number_of_people_in_the_bus_5648b12ce68d9daa6b000099|2026-02-09|completed
 57eadb7ecd143f4c9c0000a3|Abbreviate a Two Word Name|8kyu|katas/8kyu/000_abbreviate_a_two_word_name_57eadb7ecd143f4c9c0000a3|2025-12-03|completed
 515e271a311df0350d00000f|Square(n) Sum|8kyu|katas/8kyu/001_square_n_sum_515e271a311df0350d00000f|2025-12-04|completed
 5715eaedb436cf5606000381|Sum of positive|8kyu|katas/8kyu/002_sum_of_positive_5715eaedb436cf5606000381|2025-12-04|completed
 57eae65a4321032ce000002d|Fake Binary|8kyu|katas/8kyu/003_fake_binary_57eae65a4321032ce000002d|2025-12-04|completed
 54edbc7200b811e956000556|Counting sheep...|8kyu|katas/8kyu/004_counting_sheep_54edbc7200b811e956000556|2025-12-04|completed
 57a429e253ba3381850000fb|Calculate BMI|8kyu|katas/8kyu/005_calculate_bmi_57a429e253ba3381850000fb|2025-12-04|completed
+57a0885cbb9944e24c00008e|Remove exclamation marks|8kyu|katas/8kyu/006_remove_exclamation_marks_57a0885cbb9944e24c00008e|2026-02-08|completed
+582cb0224e56e068d800003c|Keep Hydrated!|8kyu|katas/8kyu/007_keep_hydrated_582cb0224e56e068d800003c|2026-02-08|completed
+59ca8246d751df55cc00014c|Is he gonna survive?|8kyu|katas/8kyu/008_is_he_gonna_survive_59ca8246d751df55cc00014c|2026-02-08|completed
