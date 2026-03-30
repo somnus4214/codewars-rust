@@ -1,0 +1,6 @@
+[package]
+name = "kata_007_find_the_odd_int_54da5a58ea159efa38000836"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

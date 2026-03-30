@@ -1,0 +1,6 @@
+[package]
+name = "kata_007_snail_521c2db8ddc89b9b7a0000c1"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

@@ -1,0 +1,6 @@
+[package]
+name = "kata_008_build_a_pile_of_cubes_5592e3bd57b64d00f3000047"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

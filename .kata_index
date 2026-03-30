@@ -5,6 +5,7 @@
 53d40c1e2f13e331fc000c26|The Millionth Fibonacci Kata|3kyu|katas/3kyu/000_the_millionth_fibonacci_kata_53d40c1e2f13e331fc000c26|2025-12-09|completed
 5518a860a73e708c0a000027|Last digit of a huge number|3kyu|katas/3kyu/001_last_digit_of_a_huge_number_5518a860a73e708c0a000027|2025-12-17|completed
 5296bc77afba8baa690002d7|Sudoku Solver|3kyu|katas/3kyu/002_sudoku_solver_5296bc77afba8baa690002d7|2026-02-01|completed
+53e57dada0cb0400ba000688|Alphabetic Anagrams|3kyu|katas/3kyu/003_alphabetic_anagrams_53e57dada0cb0400ba000688|2026-03-30|completed
 551f23362ff852e2ab000037|pyramid slide down|4kyu|katas/4kyu/000_pyramid_slide_down_551f23362ff852e2ab000037|2025-12-01|incomplete
 55983863da40caa2c900004e|next bigger number with the same digits|4kyu|katas/4kyu/001_next_bigger_number_with_the_same_digits_55983863da40caa2c900004e|2025-12-01|completed
 5254ca2719453dcc0b00027d|so many permutations!|4kyu|katas/4kyu/002_so_many_permutations_5254ca2719453dcc0b00027d|2025-12-02|incomplete
@@ -12,6 +13,7 @@
 53f40dff5f9d31b813000774|Recover a secret string from random triplets|4kyu|katas/4kyu/004_recover_a_secret_string_from_random_triplets_53f40dff5f9d31b813000774|2025-12-06|completed
 54de279df565808f8b00126a|Binary multiple of 3|4kyu|katas/4kyu/005_binary_multiple_of_3_54de279df565808f8b00126a|2025-12-09|completed
 566584e3309db1b17d000027|Differentiate a polynomial|4kyu|katas/4kyu/006_differentiate_a_polynomial_566584e3309db1b17d000027|2025-12-11|completed
+521c2db8ddc89b9b7a0000c1|Snail|4kyu|katas/4kyu/007_snail_521c2db8ddc89b9b7a0000c1|2026-03-25|completed
 52f787eb172a8b4ae1000a34|Number of trailing zeros of N!|5kyu|katas/5kyu/000_number_of_trailing_zeros_of_n_52f787eb172a8b4ae1000a34|2025-12-01|completed
 526989a41034285187000de4|Count IP Addresses|5kyu|katas/5kyu/001_count_ip_addresses_526989a41034285187000de4|2025-12-01|completed
 526dbd6c8c0eb53254000110|Not very secure|5kyu|katas/5kyu/002_not_very_secure_526dbd6c8c0eb53254000110|2025-12-01|completed
@@ -28,11 +30,14 @@
 523f5d21c841566fde000009|Array.diff|6kyu|katas/6kyu/004_array_diff_523f5d21c841566fde000009|2025-12-04|completed
 54da539698b8a2ad76000228|Take a Ten Minutes Walk|6kyu|katas/6kyu/005_take_a_ten_minutes_walk_54da539698b8a2ad76000228|2025-12-04|completed
 550498447451fbbd7600041c|Are they the \|6kyu|katas/6kyu/006_are_they_the_550498447451fbbd7600041c|2026-02-08|completed
+54da5a58ea159efa38000836|Find the odd int|6kyu|katas/6kyu/007_find_the_odd_int_54da5a58ea159efa38000836|2026-03-25|completed
+5592e3bd57b64d00f3000047|Build a pile of Cubes|6kyu|katas/6kyu/008_build_a_pile_of_cubes_5592e3bd57b64d00f3000047|2026-03-25|completed
 5259b20d6021e9e14c0010d4|Reverse words|7kyu|katas/7kyu/000_reverse_words_5259b20d6021e9e14c0010d4|2025-12-02|completed
 55f8a9c06c018a0d6e000132|Regex validate PIN code|7kyu|katas/7kyu/001_regex_validate_pin_code_55f8a9c06c018a0d6e000132|2025-12-03|completed
 51f2d1cafc9c0f745c00037d|String ends with?|7kyu|katas/7kyu/002_string_ends_with_51f2d1cafc9c0f745c00037d|2025-12-04|completed
 54c27a33fb7da0db0100040e|You're a square!|7kyu|katas/7kyu/003_you_re_a_square_54c27a33fb7da0db0100040e|2025-12-04|completed
 5648b12ce68d9daa6b000099|Number of People in the Bus|7kyu|katas/7kyu/004_number_of_people_in_the_bus_5648b12ce68d9daa6b000099|2026-02-09|completed
+546e2562b03326a88e000020|Square Every Digit|7kyu|katas/7kyu/005_square_every_digit_546e2562b03326a88e000020|2026-02-09|completed
 57eadb7ecd143f4c9c0000a3|Abbreviate a Two Word Name|8kyu|katas/8kyu/000_abbreviate_a_two_word_name_57eadb7ecd143f4c9c0000a3|2025-12-03|completed
 515e271a311df0350d00000f|Square(n) Sum|8kyu|katas/8kyu/001_square_n_sum_515e271a311df0350d00000f|2025-12-04|completed
 5715eaedb436cf5606000381|Sum of positive|8kyu|katas/8kyu/002_sum_of_positive_5715eaedb436cf5606000381|2025-12-04|completed

@@ -1,0 +1,6 @@
+[package]
+name = "kata_005_square_every_digit_546e2562b03326a88e000020"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
